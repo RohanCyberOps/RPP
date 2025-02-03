@@ -37,7 +37,7 @@ To get started with any of the projects, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chrohangurjar1/RPP.git
+   git clone https://github.com/RohanCyberOps/RPP.git
    ```
 
 2. Navigate into the project folder:
