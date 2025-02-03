@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1ac6a8d-7bdd-43f6-984a-2b073b755dcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RohanPYTHONProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/AAPL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/GAME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Handwritten Digit Recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/House Price Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Image Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/MySQLExcelInserter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Recommendation System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Resume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/SampleDATA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Send Emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Spam Email Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/Stock Price Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/calender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/chatbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/create_directory_structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/send sms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_1/placeholder_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_1/placeholder_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_1/placeholder_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_1/placeholder_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_1/placeholder_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_2/placeholder_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_2/placeholder_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_2/placeholder_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_2/placeholder_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/data/train/class_2/placeholder_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/movies_rating.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/password_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/soldier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/voiceassistant1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/whatsapp bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY By R/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chrohangurjar1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chrohangurjar1/RohanPYTHONProject.git&quot;,
+    &quot;accountId&quot;: &quot;7b3a919f-a72c-4c7e-a84c-29d5088d4114&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2n13xabwl1V9uNagyXvQTavce84" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Calculator.executor": "Run",
+    "Python.Card.executor": "Run",
+    "Python.GAME.executor": "Run",
+    "Python.Handwritten Digit Recognition.executor": "Run",
+    "Python.House Price Prediction.executor": "Run",
+    "Python.Image Classification.executor": "Run",
+    "Python.MySQLExcelInserter.executor": "Run",
+    "Python.Mysql.executor": "Run",
+    "Python.Resume.executor": "Run",
+    "Python.SampleDATA.executor": "Run",
+    "Python.Send Emails.executor": "Run",
+    "Python.Stock Price Prediction.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.authentication.executor": "Run",
+    "Python.calender.executor": "Run",
+    "Python.chatbot.executor": "Run",
+    "Python.create_directory_structure.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pet.executor": "Run",
+    "Python.send sms.executor": "Run",
+    "Python.voiceassistant1.0.executor": "Run",
+    "Python.whatsapp bot.executor": "Run",
+    "Python.zip.executor": "Run",
+    "Python.zip2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rohan",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rohan/PycharmProjects/RohanPYTHONProject",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rohan\PycharmProjects\RohanPYTHONProject\PY By R" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1ac6a8d-7bdd-43f6-984a-2b073b755dcb" name="Changes" comment="" />
+      <created>1728127002155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728127002155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
